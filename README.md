@@ -1,2 +1,1 @@
-# SupportTicketing
-Professional SupportTicketing solution with SupportTicketing-optimized intelligent-automation and enterprise scalable-architecture capabilities
+.
